@@ -455,7 +455,8 @@
     "nome": "Suco de Maracujá Natural",
     "ingredientes": ["Polpa de maracujá", "Água", "Açúcar", "Gelo"],
     "modoPreparo": "Bata tudo no liquidificador rapidamente para não triturar muito as sementes. Coe e sirva.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/sucomaracuja.jpg"
   },
   {
     "id": 52,
@@ -463,7 +464,8 @@
     "nome": "Chá Gelado de Pêssego",
     "ingredientes": ["Chá preto preparado", "Pêssegos em calda", "Limão", "Gelo"],
     "modoPreparo": "Bata um pouco do pêssego com o chá, adicione limão e sirva com muito gelo.",
-    "tempo": "10 min"
+    "tempo": "10 min",
+    "imagem": "/imagens/chapessego.jpg"
   },
   {
     "id": 53,
@@ -471,7 +473,8 @@
     "nome": "Vitamina de Banana com Aveia",
     "ingredientes": ["Bananas", "Leite gelado", "Aveia em flocos", "Mel"],
     "modoPreparo": "Coloque tudo no liquidificador e bata até ficar homogêneo e espumoso.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/vitaminabanana.jpg"
   },
   {
     "id": 54,
@@ -479,7 +482,8 @@
     "nome": "Soda Italiana de Morango",
     "ingredientes": ["Xarope de morango", "Água com gás", "Gelo", "Folhas de hortelã"],
     "modoPreparo": "Em um copo grande com gelo, coloque o xarope e complete suavemente com a água com gás.",
-    "tempo": "3 min"
+    "tempo": "3 min",
+    "imagem": "/imagens/sodamorango.jpg"
   },
   {
     "id": 55,
@@ -487,7 +491,8 @@
     "nome": "Suco Verde Detox",
     "ingredientes": ["Folhas de couve", "Maçã", "Gengibre", "Limão", "Água de coco"],
     "modoPreparo": "Bata todos os ingredientes no liquidificador, coe (opcional) e beba imediatamente.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/sucoverde.jpg"
   },
   {
     "id": 56,
@@ -495,7 +500,8 @@
     "nome": "Smoothie de Morango",
     "ingredientes": ["Morangos congelados", "Iogurte natural", "Mel"],
     "modoPreparo": "Bata os morangos congelados com o iogurte até virar um creme espesso.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/smoothiemorango.jpg"
   },
   {
     "id": 57,
@@ -503,7 +509,8 @@
     "nome": "Café Gelado",
     "ingredientes": ["Café expresso frio", "Leite", "Cubos de gelo", "Essência de baunilha"],
     "modoPreparo": "Encha o copo com gelo, adicione o leite, a baunilha e despeje o café por cima.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/cafegelado.jpg"
   },
   {
     "id": 58,
@@ -511,7 +518,8 @@
     "nome": "Água Saborizada",
     "ingredientes": ["Água filtrada", "Rodelas de limão siciliano", "Ramos de alecrim", "Pepino"],
     "modoPreparo": "Misture tudo em uma jarra e deixe na geladeira por pelo menos 1 hora antes de servir.",
-    "tempo": "1h"
+    "tempo": "1h",
+    "imagem": "/imagens/aguasabor.jpg"
   },
   {
     "id": 59,
@@ -519,7 +527,8 @@
     "nome": "Milkshake de Chocolate",
     "ingredientes": ["Sorvete de chocolate", "Leite gelado", "Calda de chocolate"],
     "modoPreparo": "Bata o sorvete com o leite. Decore o copo com calda e despeje o milkshake.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/milkchoc.jpg"
   },
   {
     "id": 60,
@@ -527,7 +536,8 @@
     "nome": "Suco Refrescante de Melancia",
     "ingredientes": ["Melancia em cubos sem semente", "Gelo", "Hortelã"],
     "modoPreparo": "Bata a melancia (não precisa de água) com hortelã. Sirva com pedras de gelo.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/sucomelancia.jpg"
   }
 
 ]
