@@ -14,7 +14,8 @@
     "nome": "Frango à Parmegiana",
     "ingredientes": ["Peito de frango", "Farinha de trigo", "Farinha de rosca", "Ovos", "Molho de tomate", "Queijo"],
     "modoPreparo": "Empane o frango, frite até dourar. Cubra com molho e queijo, leve ao forno para gratinar.",
-    "tempo": "45 min"
+    "tempo": "45 min",
+    "imagem": "/imagens/parmegianafrango.jpg"
   },
   {
     "id": 3,
@@ -22,7 +23,8 @@
     "nome": "Estrogonofe de Frango",
     "ingredientes": ["Peito de frango em cubos", "Creme de leite", "Ketchup", "Mostarda", "Champignon"],
     "modoPreparo": "Doure o frango, adicione os temperos, ketchup, mostarda e o champignon. Finalize com o creme de leite.",
-    "tempo": "30 min"
+    "tempo": "30 min",
+    "imagem": "/imagens/estrogfrango.jpg"
   },
   {
     "id": 4,
@@ -30,7 +32,8 @@
     "nome": "Macarrão à Bolonhesa",
     "ingredientes": ["Macarrão espaguete", "Carne moída", "Cebola", "Alho", "Molho de tomate"],
     "modoPreparo": "Cozinhe o macarrão. Refogue a carne com cebola e alho, adicione o molho e sirva sobre a massa.",
-    "tempo": "25 min"
+    "tempo": "25 min",
+    "imagem": "/imagens/macarraobolo.jpg"
   },
   {
     "id": 5,
@@ -38,7 +41,8 @@
     "nome": "Risoto de Cogumelos",
     "ingredientes": ["Arroz arbóreo", "Cogumelos variados", "Vinho branco", "Caldo de legumes", "Queijo parmesão", "Manteiga"],
     "modoPreparo": "Refogue os cogumelos e o arroz. Adicione o vinho e o caldo aos poucos mexendo sempre. Finalize com manteiga e parmesão.",
-    "tempo": "40 min"
+    "tempo": "40 min",
+    "imagem": "/imagens/risotocog.jpg"
   },
   {
     "id": 6,
@@ -46,7 +50,8 @@
     "nome": "Feijoada Simples",
     "ingredientes": ["Feijão preto", "Carne seca", "Linguiça calabresa", "Bacon", "Folha de louro"],
     "modoPreparo": "Cozinhe as carnes dessalgadas junto com o feijão e o louro na panela de pressão até o caldo engrossar.",
-    "tempo": "1h 30 min"
+    "tempo": "1h 30 min",
+    "imagem": "/imagens/feijoadasimp.jpg"
   },
   {
     "id": 7,
@@ -54,7 +59,8 @@
     "nome": "Escondidinho de Carne Seca",
     "ingredientes": ["Mandioca cozida", "Carne seca desfiada", "Cebola", "Queijo coalho", "Manteiga da terra"],
     "modoPreparo": "Faça um purê com a mandioca. Coloque a carne refogada no meio, cubra com o purê e gratine com o queijo.",
-    "tempo": "50 min"
+    "tempo": "50 min",
+    "imagem": "/imagens/escondcarsec.jpg"
   },
   {
     "id": 8,
@@ -62,7 +68,8 @@
     "nome": "Yakisoba Clássico",
     "ingredientes": ["Macarrão para yakisoba", "Carne em tiras", "Frango em tiras", "Brócolis", "Cenoura", "Molho shoyu"],
     "modoPreparo": "Refogue as carnes e os legumes. Misture com o macarrão cozido e o molho à base de shoyu.",
-    "tempo": "35 min"
+    "tempo": "35 min",
+    "imagem": "/imagens/yakiclass.jpg"
   },
   {
     "id": 9,
@@ -70,7 +77,8 @@
     "nome": "Moqueca de Peixe",
     "ingredientes": ["Postas de peixe", "Leite de coco", "Azeite de dendê", "Pimentão", "Tomate", "Cebola"],
     "modoPreparo": "Monte camadas de vegetais e peixe na panela. Regue com leite de coco e dendê. Cozinhe por 20 minutos.",
-    "tempo": "40 min"
+    "tempo": "40 min",
+    "imagem": "/imagens/moquepeixe.jpg"
   },
   {
     "id": 10,
@@ -78,7 +86,8 @@
     "nome": "Bife a Cavalo",
     "ingredientes": ["Bife de alcatra", "Ovo", "Sal", "Pimenta do reino", "Óleo"],
     "modoPreparo": "Frite o bife no ponto desejado. Frite o ovo separadamente e coloque por cima do bife ao servir.",
-    "tempo": "15 min"
+    "tempo": "15 min",
+    "imagem": "/imagens/bifecavalo.jpg"
   },
   {
     "id": 11,
@@ -86,7 +95,8 @@
     "nome": "Panqueca de Carne",
     "ingredientes": ["Massa de panqueca", "Carne moída refogada", "Molho de tomate", "Queijo ralado"],
     "modoPreparo": "Recheie as massas com a carne, enrole, cubra com molho e queijo e leve ao forno para aquecer.",
-    "tempo": "30 min"
+    "tempo": "30 min",
+    "imagem": "/imagens/panquecacarne.jpg"
   },
   {
     "id": 12,
@@ -94,7 +104,8 @@
     "nome": "Bacalhau à Gomes de Sá",
     "ingredientes": ["Bacalhau desfiado", "Batatas cozidas", "Cebola", "Ovos cozidos", "Azeitonas pretas"],
     "modoPreparo": "Refogue o bacalhau com cebola e junte as batatas. Decore com ovos e azeitonas e leve ao forno.",
-    "tempo": "50 min"
+    "tempo": "50 min",
+    "imagem": "/imagens/bacalhausa.jpg"
   },
   {
     "id": 13,
@@ -102,7 +113,8 @@
     "nome": "Fricassê de Frango",
     "ingredientes": ["Frango desfiado", "Milho verde", "Creme de leite", "Requeijão", "Batata palha", "Queijo muçarela"],
     "modoPreparo": "Bata milho, creme e requeijão no liquidificador. Misture ao frango, cubra com queijo e gratine. Sirva com batata palha.",
-    "tempo": "35 min"
+    "tempo": "35 min",
+    "imagem": "/imagens/fricassefran.jpg"
   },
   {
     "id": 14,
@@ -110,7 +122,8 @@
     "nome": "Carne de Panela com Batata",
     "ingredientes": ["Acém ou músculo em cubos", "Batatas", "Cenoura", "Cebola", "Caldo de carne"],
     "modoPreparo": "Doure a carne, adicione água e o caldo e cozinhe na pressão. Nos minutos finais, adicione as batatas e cenouras.",
-    "tempo": "1h"
+    "tempo": "1h",
+    "imagem": "/imagens/carnepan.jpg"
   },
   {
     "id": 15,
@@ -118,7 +131,8 @@
     "nome": "Nhoque ao Molho Sugo",
     "ingredientes": ["Massa de nhoque", "Tomates maduros", "Manjericão", "Alho", "Parmesão ralado"],
     "modoPreparo": "Cozinhe o nhoque em água fervente até boiarem. Sirva com o molho de tomates frescos e manjericão.",
-    "tempo": "45 min"
+    "tempo": "45 min",
+    "imagem": "/imagens/nhoquesug.jpg"
   },
   {
     "id": 16,
@@ -126,7 +140,8 @@
     "nome": "Peixe Assado no Forno",
     "ingredientes": ["Peixe inteiro limpo", "Batatas em rodelas", "Azeite", "Limão", "Ervas finas"],
     "modoPreparo": "Tempere o peixe com limão e ervas. Asse sobre uma cama de batatas regadas com muito azeite.",
-    "tempo": "50 min"
+    "tempo": "50 min",
+    "imagem": "/imagens/peixeassa.jpg"
   },
   {
     "id": 17,
@@ -134,7 +149,8 @@
     "nome": "Bobó de Camarão",
     "ingredientes": ["Camarão limpo", "Mandioca", "Leite de coco", "Azeite de dendê", "Pimentão"],
     "modoPreparo": "Faça o creme com a mandioca. Refogue os camarões com os temperos, misture o creme, o leite de coco e o dendê.",
-    "tempo": "45 min"
+    "tempo": "45 min",
+    "imagem": "/imagens/bobocama.jpg"
   },
   {
     "id": 18,
@@ -142,7 +158,8 @@
     "nome": "Costelinha ao Molho Barbecue",
     "ingredientes": ["Costelinha de porco", "Molho barbecue", "Alho", "Sal grosso"],
     "modoPreparo": "Tempere a costelinha, embrulhe no alumínio e asse lentamente. Pincele o barbecue e volte ao forno para dourar.",
-    "tempo": "2h"
+    "tempo": "2h",
+    "imagem": "/imagens/costbarb.jpg"
   },
   {
     "id": 19,
@@ -150,7 +167,8 @@
     "nome": "Torta de Frango de Liquidificador",
     "ingredientes": ["Ovos", "Leite", "Óleo", "Farinha de trigo", "Frango desfiado temperado"],
     "modoPreparo": "Bata os ingredientes da massa. Coloque metade na forma, adicione o recheio de frango e cubra com o restante da massa. Asse.",
-    "tempo": "45 min"
+    "tempo": "45 min",
+    "imagem": "/imagens/tortafrangliquid.jpg"
   },
   {
     "id": 20,
@@ -158,7 +176,8 @@
     "nome": "Picanha no Forno",
     "ingredientes": ["Peça de picanha", "Sal grosso", "Alho triturado", "Manteiga"],
     "modoPreparo": "Faça cortes na gordura, passe a manteiga com alho e sal grosso. Asse no forno com a gordura para cima.",
-    "tempo": "1h 10 min"
+    "tempo": "1h 10 min",
+    "imagem": "/imagens/picanhaforno.jpg"
   },
   {
     "id": 21,
