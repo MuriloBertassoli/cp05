@@ -275,7 +275,8 @@
     "nome": "Brigadeiro Gourmet",
     "ingredientes": ["1 lata de leite condensado", "3 colheres de cacau em pó 50%", "1 colher de manteiga"],
     "modoPreparo": "Leve tudo ao fogo baixo, mexendo sem parar até desgrudar do fundo da panela. Deixe esfriar e enrole.",
-    "tempo": "20 min"
+    "tempo": "20 min",
+    "imagem": "/imagens/brigadeirogourmet.jpg"
   },
   {
     "id": 32,
@@ -283,7 +284,8 @@
     "nome": "Pudim de Leite Condensado",
     "ingredientes": ["1 lata de leite condensado", "2 medidas de leite", "3 ovos", "1 xícara de açúcar para calda"],
     "modoPreparo": "Derreta o açúcar na forma. Bata os outros ingredientes no liquidificador, despeje na forma e asse em banho-maria por 1h.",
-    "tempo": "1h 15 min"
+    "tempo": "1h 15 min",
+    "imagem": "/imagens/pudim.jpg"
   },
   {
     "id": 33,
@@ -291,7 +293,8 @@
     "nome": "Mousse de Maracujá",
     "ingredientes": ["1 lata de leite condensado", "1 lata de creme de leite", "1 lata de suco concentrado de maracujá"],
     "modoPreparo": "Bata tudo no liquidificador por 5 minutos. Despeje em taças e leve à geladeira por pelo menos 4 horas.",
-    "tempo": "4h 10 min"
+    "tempo": "4h 10 min",
+    "imagem": "/imagens/moussemar.jpg"
   },
   {
     "id": 34,
@@ -299,7 +302,8 @@
     "nome": "Pavê de Chocolate",
     "ingredientes": ["Biscoito maisena", "Leite para umedecer", "Creme branco (leite condensado e leite)", "Ganache de chocolate"],
     "modoPreparo": "Intercale camadas de biscoito umedecido, creme branco e finalize com a ganache de chocolate por cima. Gele bem.",
-    "tempo": "2h"
+    "tempo": "2h",
+    "imagem": "/imagens/pavechoc.jpg"
   },
   {
     "id": 35,
@@ -307,7 +311,8 @@
     "nome": "Torta de Limão",
     "ingredientes": ["Biscoito triturado", "Manteiga derretida", "Leite condensado", "Suco de limão", "Creme de leite"],
     "modoPreparo": "Faça a base misturando o biscoito e a manteiga. Bata o limão com leite condensado e creme de leite, recheie e gele.",
-    "tempo": "2h"
+    "tempo": "2h",
+    "imagem": "/imagens/tortlim.jpg"
   },
   {
     "id": 36,
@@ -315,7 +320,8 @@
     "nome": "Bolo de Cenoura com Chocolate",
     "ingredientes": ["3 cenouras", "3 ovos", "Óleo", "Açúcar", "Farinha de trigo", "Fermento"],
     "modoPreparo": "Bata cenoura, óleo e ovos. Incorpore os secos e asse. Cubra com calda de chocolate.",
-    "tempo": "50 min"
+    "tempo": "50 min",
+    "imagem": "/imagens/boloceno.jpg"
   },
   {
     "id": 37,
@@ -323,7 +329,8 @@
     "nome": "Beijinho de Coco",
     "ingredientes": ["1 lata de leite condensado", "100g de coco ralado", "1 colher de manteiga"],
     "modoPreparo": "Cozinhe os ingredientes em fogo baixo até engrossar. Espere esfriar, enrole e passe no coco ralado.",
-    "tempo": "20 min"
+    "tempo": "20 min",
+    "imagem": "/imagens/beijicoco.jpg"
   },
   {
     "id": 38,
@@ -331,7 +338,8 @@
     "nome": "Brownie de Chocolate",
     "ingredientes": ["Chocolate meio amargo", "Manteiga", "Açúcar", "Ovos", "Farinha de trigo"],
     "modoPreparo": "Derreta chocolate e manteiga. Bata os ovos com açúcar, misture tudo e adicione a farinha. Asse por 25 min.",
-    "tempo": "40 min"
+    "tempo": "40 min",
+    "imagem": "/imagens/brownchoc.jpg"
   },
   {
     "id": 39,
@@ -339,7 +347,8 @@
     "nome": "Cheesecake de Frutas Vermelhas",
     "ingredientes": ["Cream cheese", "Açúcar", "Ovos", "Base de biscoito", "Geleia de frutas vermelhas"],
     "modoPreparo": "Asse a massa de cream cheese sobre a base de biscoito. Após esfriar, cubra com a geleia.",
-    "tempo": "3h"
+    "tempo": "3h",
+    "imagem": "/imagens/cheesefrut.jpg"
   },
   {
     "id": 40,
@@ -347,7 +356,8 @@
     "nome": "Salada de Frutas",
     "ingredientes": ["Banana", "Maçã", "Mamão", "Morango", "Suco de laranja"],
     "modoPreparo": "Pique todas as frutas em cubos pequenos e misture com o suco de laranja. Sirva gelado.",
-    "tempo": "15 min"
+    "tempo": "15 min",
+    "imagem": "/imagens/saladfrut.jpg"
   },
   {
     "id": 41,
@@ -355,7 +365,8 @@
     "nome": "Churros Caseiro",
     "ingredientes": ["Água", "Farinha de trigo", "Manteiga", "Açúcar", "Canela", "Doce de leite"],
     "modoPreparo": "Cozinhe a massa na panela, modele os churros e frite. Passe no açúcar com canela e sirva com doce de leite.",
-    "tempo": "40 min"
+    "tempo": "40 min",
+    "imagem": "/imagens/churroscaseiro.jpg"
   },
   {
     "id": 42,
@@ -363,7 +374,8 @@
     "nome": "Torta de Maçã",
     "ingredientes": ["Massa podre", "Maçãs fatiadas", "Açúcar", "Canela em pó", "Limão"],
     "modoPreparo": "Forre a forma com a massa, coloque o recheio de maçãs temperadas, cubra com tiras de massa e asse até dourar.",
-    "tempo": "1h"
+    "tempo": "1h",
+    "imagem": "/imagens/tortmaca.jpg"
   },
   {
     "id": 43,
@@ -371,7 +383,8 @@
     "nome": "Manjar de Coco",
     "ingredientes": ["Leite", "Leite de coco", "Coco ralado", "Amido de milho", "Açúcar", "Calda de ameixa"],
     "modoPreparo": "Cozinhe os ingredientes até engrossar. Coloque em forma untada com óleo, gele e sirva com a calda.",
-    "tempo": "3h"
+    "tempo": "3h",
+    "imagem": "/imagens/manjarcoco.jpg"
   },
   {
     "id": 44,
@@ -379,7 +392,8 @@
     "nome": "Arroz Doce Cremoso",
     "ingredientes": ["Arroz", "Leite", "Leite condensado", "Canela em pau", "Cravo"],
     "modoPreparo": "Cozinhe o arroz na água. Quando secar, adicione o leite, as especiarias e o leite condensado até ficar cremoso.",
-    "tempo": "35 min"
+    "tempo": "35 min",
+    "imagem": "/imagens/arrozdoce.jpg"
   },
   {
     "id": 45,
@@ -387,7 +401,8 @@
     "nome": "Doce de Abóbora",
     "ingredientes": ["Abóbora em cubos", "Açúcar", "Cravo da índia", "Canela em pau", "Coco ralado"],
     "modoPreparo": "Cozinhe a abóbora com os demais ingredientes em fogo baixo até desmanchar e formar uma calda rala.",
-    "tempo": "45 min"
+    "tempo": "45 min",
+    "imagem": "/imagens/doceabob.jpg"
   },
   {
     "id": 46,
@@ -395,7 +410,8 @@
     "nome": "Quindim Tradicional",
     "ingredientes": ["Gemas de ovo", "Açúcar", "Coco ralado fresco", "Manteiga derretida"],
     "modoPreparo": "Peneire as gemas, misture tudo e coloque em forminhas untadas com manteiga e açúcar. Asse em banho-maria.",
-    "tempo": "1h"
+    "tempo": "1h",
+    "imagem": "/imagens/quindim.jpg"
   },
   {
     "id": 47,
@@ -403,7 +419,8 @@
     "nome": "Cocada de Forno",
     "ingredientes": ["Coco ralado", "Leite condensado", "Ovos", "Manteiga"],
     "modoPreparo": "Misture tudo em uma tigela, coloque em um refratário e asse até dourar bem por cima.",
-    "tempo": "30 min"
+    "tempo": "30 min",
+    "imagem": "/imagens/cocadaforno.jpg"
   },
   {
     "id": 48,
@@ -411,7 +428,8 @@
     "nome": "Suspiro Caseiro",
     "ingredientes": ["Claras de ovo", "Açúcar refinado", "Raspas de limão"],
     "modoPreparo": "Bata as claras em neve, adicione o açúcar aos poucos. Modele e asse em forno bem baixo até secar.",
-    "tempo": "1h 30 min"
+    "tempo": "1h 30 min",
+    "imagem": "/imagens/suspcas.jpg"
   },
   {
     "id": 49,
@@ -419,7 +437,8 @@
     "nome": "Gelatina Colorida",
     "ingredientes": ["Gelatinas de vários sabores", "Leite condensado", "Creme de leite", "Gelatina incolor"],
     "modoPreparo": "Faça as gelatinas com água. Corte em cubos, misture e cubra com o creme batido. Leve à geladeira.",
-    "tempo": "4h"
+    "tempo": "4h",
+    "imagem": "/imagens/gelatcol.jpg"
   },
   {
     "id": 50,
@@ -427,7 +446,8 @@
     "nome": "Sorvete Rápido de Banana",
     "ingredientes": ["Bananas maduras congeladas", "Cacau em pó", "Um pingo de leite"],
     "modoPreparo": "Bata as bananas congeladas no processador com o cacau até virar um creme liso.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/sorvetebanana.jpg"
   },
   {
     "id": 51,
