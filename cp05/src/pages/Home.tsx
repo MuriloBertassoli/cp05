@@ -65,12 +65,16 @@ export default function Home() {
             className="group bg-white rounded-3xl shadow-sm border border-gray-100 hover:shadow-2xl transition-all duration-500 flex flex-col overflow-hidden"
           >
             <div className="relative overflow-hidden h-52">
+              
+              {/* AQUI ESTÁ A MUDANÇA DA IMAGEM! 👇 */}
               <img 
-                src={`https://loremflickr.com/500/350/food,dish,cooked?lock=${receita.id}`} 
+                src={receita.imagem || "https://placehold.co/500x350/orange/white?text=Sem+Foto"} 
                 alt={receita.nome} 
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 loading="lazy"
               />
+              {/* 👆 FIM DA MUDANÇA DA IMAGEM */}
+
               <div className="absolute top-4 left-4">
                 <span className="bg-white/90 backdrop-blur-sm text-orange-600 text-[10px] font-black px-3 py-1 rounded-lg uppercase shadow-sm">
                   {receita.categoria}

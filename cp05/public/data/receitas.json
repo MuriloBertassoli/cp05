@@ -5,7 +5,8 @@
     "nome": "Lasanha de Carne",
     "ingredientes": ["Massa de lasanha", "Carne moída", "Queijo muçarela", "Presunto", "Molho de tomate"],
     "modoPreparo": "Intercale camadas de massa, carne, presunto e queijo. Asse no forno a 180°C por 40 minutos.",
-    "tempo": "40 min"
+    "tempo": "40 min",
+    "imagem": "/imagens/lasanhadecarne.jpg"
   },
   {
     "id": 2,
