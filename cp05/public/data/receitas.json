@@ -185,7 +185,8 @@
     "nome": "Salada Caprese",
     "ingredientes": ["Tomate", "Muçarela de búfala", "Manjericão fresco", "Azeite", "Sal"],
     "modoPreparo": "Corte o tomate e a muçarela em rodelas. Intercale em uma travessa, coloque o manjericão e regue com azeite.",
-    "tempo": "10 min"
+    "tempo": "10 min",
+    "imagem": "/imagens/saladcaprese.jpg"
   },
   {
     "id": 22,
@@ -193,7 +194,8 @@
     "nome": "Salada Caesar",
     "ingredientes": ["Alface americana", "Frango grelhado em tiras", "Croutons", "Parmesão ralado", "Molho Caesar"],
     "modoPreparo": "Rasgue a alface, misture com o frango e os croutons. Despeje o molho e polvilhe o parmesão.",
-    "tempo": "15 min"
+    "tempo": "15 min",
+    "imagem": "/imagens/saladceasar.jpg"
   },
   {
     "id": 23,
@@ -201,7 +203,8 @@
     "nome": "Salada Grega",
     "ingredientes": ["Tomate", "Pepino", "Cebola roxa", "Azeitonas pretas", "Queijo Feta", "Azeite"],
     "modoPreparo": "Corte os vegetais em cubos grandes, adicione as azeitonas e o queijo esfarelado. Tempere com sal, orégano e azeite.",
-    "tempo": "10 min"
+    "tempo": "10 min",
+    "imagem": "/imagens/saladgraga.jpg"
   },
   {
     "id": 24,
@@ -209,7 +212,8 @@
     "nome": "Salada Tropical",
     "ingredientes": ["Mix de folhas verdes", "Manga em cubos", "Tomate cereja", "Cenoura ralada", "Molho de mostarda e mel"],
     "modoPreparo": "Misture todos os ingredientes em uma tigela grande e sirva com o molho à parte.",
-    "tempo": "10 min"
+    "tempo": "10 min",
+    "imagem": "/imagens/saladtropic.jpg"
   },
   {
     "id": 25,
@@ -217,7 +221,8 @@
     "nome": "Salada de Grão de Bico",
     "ingredientes": ["Grão de bico cozido", "Pimentão vermelho", "Cebola roxa", "Salsinha", "Limão"],
     "modoPreparo": "Misture o grão de bico com os vegetais picadinhos. Tempere com bastante limão, azeite, sal e pimenta.",
-    "tempo": "15 min"
+    "tempo": "15 min",
+    "imagem": "/imagens/saladgraobic.jpg"
   },
   {
     "id": 26,
@@ -225,7 +230,8 @@
     "nome": "Salada Coleslaw",
     "ingredientes": ["Repolho verde ralado", "Cenoura ralada", "Maionese", "Mostarda", "Vinagre de maçã"],
     "modoPreparo": "Misture a maionese, mostarda e vinagre para fazer o molho. Incorpore no repolho e cenoura ralados. Sirva gelada.",
-    "tempo": "15 min"
+    "tempo": "15 min",
+    "imagem": "/imagens/saladcol.jpg"
   },
   {
     "id": 27,
@@ -233,7 +239,8 @@
     "nome": "Salada Niçoise",
     "ingredientes": ["Alface", "Atum em conserva", "Ovos cozidos", "Vagem cozida", "Batata cozida"],
     "modoPreparo": "Disponha as folhas no fundo e monte os demais ingredientes por cima. Regue com vinagrete simples.",
-    "tempo": "25 min"
+    "tempo": "25 min",
+    "imagem": "/imagens/saladnic.jpg"
   },
   {
     "id": 28,
@@ -241,7 +248,8 @@
     "nome": "Maionese de Batata Clássica",
     "ingredientes": ["Batatas em cubos", "Cenoura em cubos", "Ervilha", "Maionese", "Salsinha"],
     "modoPreparo": "Cozinhe a batata e a cenoura até ficarem macias. Espere esfriar e misture com a ervilha, maionese e salsinha.",
-    "tempo": "30 min"
+    "tempo": "30 min",
+    "imagem": "/imagens/saladmaion.jpg"
   },
   {
     "id": 29,
@@ -249,7 +257,8 @@
     "nome": "Salada de Quinoa",
     "ingredientes": ["Quinoa cozida", "Pepino em cubos", "Tomate cereja", "Hortelã picada", "Suco de limão"],
     "modoPreparo": "Misture a quinoa já fria com os vegetais e a hortelã. Tempere com limão e azeite.",
-    "tempo": "20 min"
+    "tempo": "20 min",
+    "imagem": "/imagens/saladquin.jpg"
   },
   {
     "id": 30,
@@ -257,7 +266,8 @@
     "nome": "Rúcula com Tomate Seco",
     "ingredientes": ["Folhas de rúcula", "Tomate seco", "Muçarela de búfala", "Vinagre balsâmico"],
     "modoPreparo": "Disponha a rúcula, espalhe os tomates secos e a muçarela. Finalize com um fio de vinagre balsâmico.",
-    "tempo": "5 min"
+    "tempo": "5 min",
+    "imagem": "/imagens/saladruc.jpg"
   },
   {
     "id": 31,
