@@ -66,14 +66,12 @@ export default function Home() {
           >
             <div className="relative overflow-hidden h-52">
               
-              {/* AQUI ESTÁ A MUDANÇA DA IMAGEM! 👇 */}
               <img 
                 src={receita.imagem || "https://placehold.co/500x350/orange/white?text=Sem+Foto"} 
                 alt={receita.nome} 
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 loading="lazy"
               />
-              {/* 👆 FIM DA MUDANÇA DA IMAGEM */}
 
               <div className="absolute top-4 left-4">
                 <span className="bg-white/90 backdrop-blur-sm text-orange-600 text-[10px] font-black px-3 py-1 rounded-lg uppercase shadow-sm">
